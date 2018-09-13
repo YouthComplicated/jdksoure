@@ -3,6 +3,10 @@
 
 2、Comparator中1.8新增的方法
 
+3、整理之前遇到的问题(convetors与vaildaitor配置文件失败问题)
+
+4、解读常用的结合原理，比如set去重等
+
 
 
 
